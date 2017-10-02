@@ -15,7 +15,7 @@ There are four forms in a normalization
 2F
 3F
 BCNF
-first normalform is separate the data abou duplication
+first normalform is separate the data about duplication
 and in second normal form w use the primary constraint as primarykey. Id is a primary key ij a table.
 second most important concept is STORED PROCEDURES.
 why we use stored pricedures in a sql?
