@@ -15,4 +15,6 @@ do
 done
 
 echo "$num is a prime number"
+echo "$num is not divisible by anynumber other than itself"
+
 
